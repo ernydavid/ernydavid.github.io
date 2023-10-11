@@ -1,0 +1,1 @@
+import{j as e}from"./index-1b99a67c.js";function t(){return e.jsx("div",{className:"px-6 max-w-[1000px] m-auto",children:e.jsx("section",{className:"h-[90vh] flex flex-col justify-center items-center",children:e.jsx("h1",{children:"Hello World"})})})}export{t as default};
